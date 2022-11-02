@@ -1,2 +1,1 @@
-# Pavn
-Public version of Davn discord bot
+# party_rotator
